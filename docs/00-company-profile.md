@@ -20,7 +20,7 @@ The program runs in two waves.
 ### Wave 1 — Service migration
 Migrate service operations from an unsupported on-premise ticketing system to a cloud field-service platform.
 
-Project: `meraki-service-migration` (separate repository)
+Project: [`meraki-service-migration`](https://github.com/kgspacehq/meraki-service-migration) (separate repository)
 
 ### Wave 2 — ERP transformation
 Replace the legacy ERP with SAP S/4HANA Cloud.
